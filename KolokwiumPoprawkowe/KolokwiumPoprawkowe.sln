@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolokwiumPoprawkowe", "KolokwiumPoprawkowe\KolokwiumPoprawkowe.csproj", "{2E93F450-77C5-46FD-AD29-E9638DE57BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E93F450-77C5-46FD-AD29-E9638DE57BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E93F450-77C5-46FD-AD29-E9638DE57BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E93F450-77C5-46FD-AD29-E9638DE57BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E93F450-77C5-46FD-AD29-E9638DE57BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA4D822-D47C-4F17-9AE3-93EBE745CA5E}
+	EndGlobalSection
+EndGlobal
